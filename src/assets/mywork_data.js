@@ -65,7 +65,7 @@ const mywork_data = [
     },
     {
         w_no: 4,
-        w_name: "Todo_List",
+        w_name: "Admin_Dashboard UI",
         w_img: project4_img
     },
     {
